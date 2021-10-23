@@ -1,4 +1,4 @@
-# teapot
+# Teapot
 
 A teapot Flutter project.
 
